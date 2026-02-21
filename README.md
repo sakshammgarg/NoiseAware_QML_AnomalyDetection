@@ -69,7 +69,7 @@ The pipeline generates the following artifacts for analysis and reporting:
 ## Datasets
 
 **Primary — UNSW-NB15**  
-**Source**: [Kaggle – UNSW-NB15 Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15)  
+**Source**: [Kaggle – UNSW-NB15](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15)  
 **Content**: Modern network traffic generated using the IXIA PerfectStorm tool, including normal traffic and multiple attack categories such as Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. Used as the primary training and evaluation dataset.
 
 **Cross-Validation — NSL-KDD**  
